@@ -61,9 +61,9 @@ By **1973**, UNIX was rewritten in the C programming language by Dennis Ritchie 
 
 ## 1993 Onward – Rise of Distributions:
 - **First distributions:**
-        - Slackware (1993)
-        - Debian (1993)
-        - Red Hat (1994)
+  - Slackware (1993)
+  - Debian (1993)
+  - Red Hat (1994)
  ### ***They bundled Linux Kernel, GNU tools , Installer, package managers.*** ###
   
 ## 2000s–till now – Linux Dominates the World:
