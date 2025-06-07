@@ -1,6 +1,3 @@
-```bash
-ls -ltr #to list down all the files with all the details
-```
 # History of UNICS/UNIX and LINUX or GNU/LINUX
 ## The Early Days of Computing (1950s–1960s):
 Before UNIX, computers were huge, expensive, and ran specific software. Every vendor (IBM, DEC, etc.) had its own proprietary OS. This made sharing software and knowledge across systems almost impossible.
